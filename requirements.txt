@@ -1,5 +1,5 @@
 # Tested with the versions pinned below (Python 3.11+).
-boxsdk>=10.0.0
+boxsdk>=10.18.0
 Flask>=3.1.0
 python-dotenv>=1.0.0
 # Only needed for the optional EXIF step (exif.py)
